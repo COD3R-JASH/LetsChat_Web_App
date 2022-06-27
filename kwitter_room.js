@@ -1,5 +1,5 @@
 // Your web app's Firebase configuration
-const firebaseConfig = {
+var firebaseConfig = {
     apiKey: "AIzaSyADg7sRUVgGI9rJyUfqfqVSen6Yo49hBbs",
     authDomain: "letschat-web-app-85adc.firebaseapp.com",
     databaseURL: "https://letschat-web-app-85adc-default-rtdb.firebaseio.com",
